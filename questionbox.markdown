@@ -8,7 +8,7 @@ permalink: /box/
     <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
     <style type="text/css">.v[data-class=v] .vsys {visibility: hidden;}</style>
     <style type="text/css">
-    .v[data-class=v] .status-bar, .v[data-class=v] .veditor, .v[data-class=v] .vinput, .v[data-class=v] p, .v[data-class=v] pre code {color: #f0f0f0 !important};
+    .v[data-class=v] .status-bar, .v[data-class=v] .veditor, .v[data-class=v] .vinput, .v[data-class=v] p, .v[data-class=v] pre code {color: #000000 !important};
     </style>
 </head>
 <body>
