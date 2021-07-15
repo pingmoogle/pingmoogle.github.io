@@ -1,4 +1,5 @@
 title: PingHome
+tagline: Blog And More
 author:
   name: Ping / soowin
   email: soowindance@gmail.com
@@ -7,10 +8,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 # Theme Settings
-minima:
-  social_links:
-    twitter: soowindance
-    github:  soowin
 
 
 # Navbar Titles
@@ -21,5 +18,6 @@ header_pages:
 
 # Build settings
 remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
