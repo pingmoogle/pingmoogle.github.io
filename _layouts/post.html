@@ -17,11 +17,25 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'kFrG1MByLxgKAON8SQTP8lXC-gzGzoHsz',
+            appKey: 'mcKCP02bv1aN2OJRjtfFYcDF',
+            placeholder:"留下评论，昵称可以不填",
+            avatar:"hide",
+            meta:['nick']
+        })
+    </script>
   </div>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
+
+  
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

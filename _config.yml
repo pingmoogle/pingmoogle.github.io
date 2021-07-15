@@ -8,6 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 # Theme Settings
+show_excerpts: true
 
 
 # Navbar Titles
