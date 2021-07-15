@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: page_with_diy_title
 title: Box
+diy_title: Ping's Question Box
 permalink: /box/
 ---
 
@@ -13,7 +14,6 @@ permalink: /box/
 </head>
 <body>
 <div>
-    <h1>Ping's Question Box</h1>
     <div id="vcomments"></div>
     <script>
         new Valine({

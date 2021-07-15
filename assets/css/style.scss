@@ -1,0 +1,21 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #e3e3e3;
+    }
+    div {
+        border-color: #353535;
+    }
+}
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #F1F1F1;
+        color: #333333;
+    }
+    div {
+        border-color: #a1a1a1;
+    }
+}
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
