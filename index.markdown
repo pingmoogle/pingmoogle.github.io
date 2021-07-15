@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![img](/static/pics/title.png)
+![img](/static/pics/title.webp)
