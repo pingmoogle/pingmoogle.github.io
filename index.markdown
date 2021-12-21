@@ -6,3 +6,5 @@ layout: home
 ---
 
 ![img](/static/pics/title.webp)
+  
+[📧 来 Box 提问或留言](/box)
