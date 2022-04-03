@@ -10,4 +10,8 @@ layout: home
 ## [📧 来 Box 提问或留言](/box)
   
   
-<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="zh" dir="ltr">挑战极限了属于是 <a href="https://t.co/BR6wyTg6zw">pic.twitter.com/BR6wyTg6zw</a></p>&mdash; Ping (@pingdance) <a href="https://twitter.com/pingdance/status/1510646818086227973?ref_src=twsrc%5Etfw">2022年4月3日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+
+## [🔔 查看最新动态](https://twitter.com/pingdance)
+  
+<a class="twitter-timeline" href="https://twitter.com/pingdance?ref_src=twsrc%5Etfw">Tweets by pingdance</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
