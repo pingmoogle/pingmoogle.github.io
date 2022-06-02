@@ -13,7 +13,6 @@ show_excerpts: true
 
 # Navbar Titles
 header_pages:
-  - questionbox.markdown
   - about.markdown
 
 

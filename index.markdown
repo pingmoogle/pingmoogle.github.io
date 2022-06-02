@@ -5,12 +5,6 @@
 layout: home
 ---
 
-![img](/static/pics/title.webp)
-  
-## [📧 来 Box 提问或留言](/box)
-  
-  
-<br>
 
 ## [🔔 查看最新动态](https://twitter.com/pingdance)
   
