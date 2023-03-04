@@ -6,6 +6,6 @@ layout: home
 ---
 
 
-## [🔔 查看最新动态](https://twitter.com/pingdance)
+## [🔔 查看最新动态](https://twitter.com/MooglePing)
   
-<a class="twitter-timeline" href="https://twitter.com/pingdance?ref_src=twsrc%5Etfw">Tweets by pingdance</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/MooglePing?ref_src=twsrc%5Etfw">Tweets by pingdance</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
